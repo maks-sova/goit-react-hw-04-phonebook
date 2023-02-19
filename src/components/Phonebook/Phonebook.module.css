@@ -1,0 +1,28 @@
+/* *{
+    margin-left: 10px;
+}
+
+.box{
+border: solid 1px black;
+width: 400px;
+border-radius: 4px;
+
+}
+.sting{
+    display: flex;
+    margin:10px;
+    border: 1px solid rgba(150, 147, 147, 0.3);
+}
+.btn{
+padding:5px 20px;
+border-radius: 4px;
+border: none;
+cursor: pointer;
+margin-bottom: 10px;
+}
+
+li::marker{
+content: "☎️";
+} */
+
+
