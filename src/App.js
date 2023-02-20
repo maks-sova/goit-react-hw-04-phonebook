@@ -1,4 +1,4 @@
-import Phonebook from './components/Phonebook/App.jsx';
+import Phonebook from "components/Phonebook/Phonebook";
 
 
 function App() {

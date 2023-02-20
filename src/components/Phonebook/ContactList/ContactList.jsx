@@ -1,5 +1,6 @@
 import css from './ContactList.module.css';
 import PropTypes from 'prop-types';
+
 const ContactList = ({ removContact, contacts }) => {
   const cols = contacts.map(({ id, name, number }) => (
     <li key={id} className={css.liStyle}>
